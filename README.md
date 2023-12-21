@@ -15,7 +15,7 @@ The integration was based on the original [Google Conversation AI Integration in
 
 ## Installation
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=Integration&owner=r00tat&repository=hassio_blaulichtsms)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=Integration&owner=r00tat&repository=hassio_google_gemini_pro)
 
 To be able to use the integration, you need to setup a GCP project with Vertex AI enabled. Create a service account, assigne the IAM role Vertex AI User and download the service account key.
 This service account key is required in the configuration.
